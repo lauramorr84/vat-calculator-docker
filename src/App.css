@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid rgb(160, 10, 145);
+  border: 3px solid rgb(102, 158, 164);
   padding: 10px;
 }
 
@@ -14,5 +14,5 @@
 
 body{
   padding: 10px;
-  background-color: cornflowerblue;
+  background-color: rgb(210, 159, 197);
 }
